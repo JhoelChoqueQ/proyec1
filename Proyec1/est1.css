@@ -1,0 +1,55 @@
+*
+{
+    margin: 20px;
+    padding: 20px;
+}
+body
+{
+    
+    color: rgb(209, 209, 209);
+}
+header
+{
+    height: 35px;
+    text-align: center;
+    color: black;
+    background-color: rgb(138, 139, 233);
+    text-transform: capitalize;
+}
+nav
+{
+    height:50px;
+    background-color:rgb(30, 144, 210) ;
+    text-align:center;
+    color: black;
+}
+section
+{
+    background-color:rgb(61, 94, 240) ; 
+    color: black;
+    height:2070px;
+    width: 60%;
+    float:left;
+}
+aside
+{
+    background-color:rgb(120, 172, 241);
+    height:800px;
+    width:25%;
+    float:right;
+    color: black;
+}
+footer
+{
+    margin-top:50px;
+    width:50%;
+    height:200px;
+    background-color:rgb(0, 26, 255);
+    color: black;
+}
+#cont1
+{
+    background-color:rgb(42, 226, 233);
+    width:95%;
+    height:2380px;
+}
